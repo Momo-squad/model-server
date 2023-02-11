@@ -1,4 +1,4 @@
 env
 __pycache__
 core/__pycache__
-models/dis_classify.pkl
+disease_model/dis_classify.pkl
